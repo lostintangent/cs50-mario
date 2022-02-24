@@ -1,0 +1,10 @@
+{
+    "workspace": {
+        "view": "readme",
+        "files": [
+            "psuedocode.txt",
+            "mario.c"
+        ],
+        "terminals": [""]
+    }
+}
