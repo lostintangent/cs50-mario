@@ -1,4 +1,5 @@
 {
+    "extensions": ["lostintangent.workspace-layout"],
     "workspace": {
         "view": "readme",
         "files": [
